@@ -40,7 +40,7 @@ playwright-ui-automation/
 ### Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/playwright-ui-automation.git
+git clone https://github.com/jovanovtata/Playwright-Basic-UI-Automation.git
 cd playwright-ui-automation
 npm install
 npx playwright install
