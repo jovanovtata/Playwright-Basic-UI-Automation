@@ -26,7 +26,7 @@ playwright-ui-automation/
 
 | Test File | Scenarios |
 |---|---|
-| `homepage.spec.js` | Page load, logo, navbar links, featured products, newsletter subscribe |
+| `homepage.spec.js` | Page load, logoo, navbar links, featured products, newsletter subscribe |
 | `login.spec.js` | Invalid login, duplicate signup, redirect to registration |
 | `products.spec.js` | Product list, search with results, search no results, product detail |
 | `cart.spec.js` | Empty cart, add product, remove product, navbar navigation |
